@@ -1,7 +1,7 @@
 from collections import Counter
-counter1 =  Counter({'x': 4, 'y': 2, 'z': -2})
+counter1 =  Counter({'x': 5, 'y': 3, 'z': -7})
 
-counter2 = Counter({'x1': -12, 'y': 5, 'z':4 })
+counter2 = Counter({'x1': -16, 'y': 7, 'z':9 })
 
 #Addition
 counter3 = counter1 + counter2
